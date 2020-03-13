@@ -1,0 +1,13 @@
+{
+  "name": "drawcanvasusingconsole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "node": "node index.js"
+  },
+  "author": "Vishnu Sharma",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
