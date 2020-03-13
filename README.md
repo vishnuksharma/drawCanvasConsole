@@ -48,4 +48,4 @@ enter command: `B 10 3 o`
 enter command: `Q`
 
 ### For Example:
-![Example image](example.png?raw=true "example image")
+![Example image](example_img.png?raw=true "example image")
