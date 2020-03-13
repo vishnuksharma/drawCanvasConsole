@@ -11,6 +11,7 @@ In a nutshell, the program should work as follows:
 
 ## Available Scripts
 In the solution, you should terminal and run following CMD:
+### NodeJS should be install in your system.
 ### `npm run node` or  `node index.js`
 
 Command 		Description
